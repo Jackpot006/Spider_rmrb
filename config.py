@@ -1,0 +1,11 @@
+MONGO_URL = 'localhost'
+MONGO_DB = 'rmrb'
+MONGO_TABLE = 'rmrb_blxd'
+
+KEYWORD = ['巴黎协定']
+
+PROXY_POOL_URL = 'http://127.0.0.1:5010/get/'
+
+COOKIE = 'ALLYESID4=0F07D12E59FFA871; sfr=1; wdcid=28474ea68d4706fc; Hm_lvt_bfc6c23974fbad0bbfed25f88a973fb0=1546681668; JSESSIONID=DBDE1263CF8E2C260686ED1AB192A659; pageSize=20; pageNo=5'
+
+PAGE = range(1,301)
